@@ -2,9 +2,11 @@
 ZICHI is an interactive musical AI agent. This project is dedicated to building a creative and collaborative AI profile, where AI captivates the imagination to enhance creativity.
 
 ## Requirements
-- Tensroflow 1.0  
-- Python 2.7  
-- Librosa   
+See in yml file.
+In addition, the following tools are required for the operation system:
+- pydub  
+- Librosa  
+- ffmpeg
 
 ## Dataset
 
